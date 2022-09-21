@@ -1,2 +1,2 @@
 # Parallel_programming
-Homeworks&amp;Prijects on MEPhI parallel programming course
+Homeworks and projects on MEPhI parallel programming course
